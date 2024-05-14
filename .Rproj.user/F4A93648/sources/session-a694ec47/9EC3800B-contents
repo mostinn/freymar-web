@@ -1,0 +1,8 @@
+name: "FreyMar-Web"
+navbar:
+  title: "Freymar"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
