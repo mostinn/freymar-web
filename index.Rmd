@@ -1,9 +1,31 @@
 ---
-title: "My Website"
+title: "FreyMar's regeneration"
 ---
 
-Hello, Website!
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+<html lang="en">
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+<h4>FreyMar's mission is to regenerate slaughter waste from the aquaculture industry to produce enriched fish feed. The slaughter waste is formulated into microbial media that in turn is placed into a bioreactor. The reactor is inoculated with a strain of microbes that produce large quantities of omega-3 polyunsaturated fatty acids (PUFAs). The PFUAs are essential for healthy fish growth in aquaculture. Currently, fish meal and fish oils are the source of PUFAs. FreyMar's technology goes straight to the primary source of PUFAs, marine microbes. FreyMar’s technology regenerates aquaculture waste that otherwise would go to a landfill making the industry sustainable.</h4>
+
+<h2>FreyMar's regeneration cycle for aquaculture</h2>
+
+<img src="SourceDocuments/RegenerationCycle.png" alt="_" class="img_index"> 
+
+
+</html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles-FrMr.css">
+    <title>My Website</title>
+</head>
+<body>
+    <!-- Your website content goes here -->
+    <footer>
+          <p><a href="mailto:mostinn@gmail.com"><b>Contact FreyMar!</b></a></p>
+          <p>© 2024 Magnús Örn Stefánsson</p> 
+    </footer>
+</body>
+</html>

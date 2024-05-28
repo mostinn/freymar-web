@@ -1,0 +1,18 @@
+
+#33cccc(ff)  presentation theme
+
+#2c3e50(ff)	Flatley base color
+
+#2c3e50		Flatly primary color
+--> changed to #33cccc
+---> 00008B
+---->	00334e
+
+#1a242f	Menue click clolor
+--> changed to #33aacc
+---> 004b49
+---->   033500
+
+Hover color and arrows and boxed in display
+3498db
+
