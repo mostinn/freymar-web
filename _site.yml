@@ -11,5 +11,5 @@ navbar:
 
 output:
   html_document:
-    css: "C:/Users/mosti/OneDrive/Documents/FreyMar/FreyMar-Web/most-flatly.min.css"
+    css: "most-flatly.min.css"
     highlight: tango
