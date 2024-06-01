@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Technology"
       href: technology.html
+    - text: "Waste"
+      href: waste.html
     - text: "About"
       href: about.html
 
