@@ -48,14 +48,14 @@
 .img-pufas_tech {
 	display: flex;
 	height: auto;
-	width: 700px;
-	max-width: 1000px;
+	width: 400px;
+	max-width: 600px;
 	padding: 5px 5px;
 }
 .img-media_tech {
 	height: auto;
-	width:600px;
-	max-width: 1000px;
+	width:400px;
+	max-width: 600px;
 	padding: 5px 5px;
 }
 	  
@@ -188,6 +188,8 @@ footer {
     color: #ffffff;
     text-align: center;  
     position: relative;
+	margin-left: calc(-50vw + 50%); /* Negative half of the viewport width, plus half of the container width */
+	margin-right: calc(-50vw + 50%); /* Negative half of the viewport width, plus half of the container width */
     bottom: 0;
-	width: 100%;
+	width: 100vw;
 	}
