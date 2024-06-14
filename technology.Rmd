@@ -1,14 +1,10 @@
 ---
 title: "FreyMar technology"
 ---
-```html
 
 <html lang="en">
 
-
 <h1>FreyMar's regeneration cycle for aquaculture</h1>
-
-
 <div class="line"></div>
 <thead>
     <title>Table: Freymar's regeneration cycle</title>
@@ -84,15 +80,22 @@ title: "FreyMar technology"
             <tr>
                 <td><b>Fish feeding at the farm</b>
                     <br>Fish are fed on enriched feed pellets
+                    <br><img src="SourceDocuments/DownArrow.svg" alt="_" class="img-down-arrow_tech">
                 </td>
                 <td>
                     <img src="SourceDocuments/FishAreFed-Regeneration-Cycle.svg" alt="_" class="img_tech"> 
                 </td>
             </tr>
+            <tr>
+                <td><b>FreytMar's Regeneration Cycle continues</b>
+                    </td>
+                <td>
+                    <img src="SourceDocuments/RegenerationCycle-2,0.svg" alt="_" class="img_tech">
+                </td>
+            </tr>
         </table>
     </body>
 </tbody>
-
 <!-- Footer: -->
 
 <head>

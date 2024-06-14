@@ -1,7 +1,11 @@
-/* div_element ------------- */
+/* elements ------------- */
 .div_element {
 	border: 0;
 	padding: 0;
+}
+
+.p_txt {
+	width: 70%;
 }
 
 /* index ------------------ */
@@ -82,7 +86,11 @@ th:nth-child(2) {
 .img-thraustar_rnd {
 	height: auto;
 	width: 150px;
-	padding: 5px 5px;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	/* margin-left: 20px; */
 }
 
 .img-nitrogen_rnd {

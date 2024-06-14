@@ -8,6 +8,7 @@ header:
 <html lang="en">
 
 <h1>FreyMar's regeneration cycle for aquaculture</h1>
+<div class="line"></div>
 
 <img src="SourceDocuments/RegenerationCycle-2,0.svg" alt="_" class="img_index"> 
 

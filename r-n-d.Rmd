@@ -2,85 +2,90 @@
 title: "Research and developoment"
 ---
 
-```html
-
 <html lang="en">
-<h1>Marine microbes</h1>
-<h2>Growth rate on commercial and FreyMar's media</h2>
-<h1>R&D: Optimization of microbial bioprocessing</h1>
-<h2>Biomass and protein in media</h2>
-<thead>
-    <title>Table: Thraustar and bullets</title>
-    <link rel="stylesheet" href="Styles-FrMr.css">
-</thead>
-<tbody>
-    <body>
-        <div class="table_rnd"></div>
-        <table class="table_rnd">
-            <tr>
-                <td><img src="SourceDocuments/Thraustos.png" alt="Thraustos" class="img-thraustar_rnd"></td>
-                <td>
-                    <b>Microbes</b>
-                    <br>Marine microbes used as the working horse in bioprocessing
-                </td>
-            </tr>
-            <tr> 
-                <td><img src="SourceDocuments/Nitrogen-sources_Marine-extract.svg" alt="Marine medium"
-                        class="img-nitrogen_rnd"></td>
-                <td>
-                    <b>Slaughter waste as nitrogen source for microbes</b>
-                    <br>Marine microbes yield _[]% more biomass when processed on marine waste as compared commercial
-                    microbial media
-                </td>
-            </tr>
-            <tr>
-                <td><img src="SourceDocuments/Fig_2__rPlotProteinConc_&_Time.svg" alt="Thraustos"
-                        class="img-protein_rnd"></td>
-                <td>
-                    <b>Microbial biomass (DCW, g/L) as generated</b>
-                    <br>&bull; With protein concentration
-                    <br>&bull; With fermentation time
-                </td>
-            </tr>
-            <tr>
-                <td><img src="SourceDocuments/Fig_3_b__rPlotRSM_GluGly_Biomass.svg" alt="Thraustos"
-                        class="img-rsm_rnd"></td>
-                <td>
-                    <b>Bioimass (DCW, g/L)</b>
-                    <br>&bull; With glucose concentration
-                    <br>&bull; With glycerol concentration
-                </td>
-            </tr>
-            <tr>
-                <td><img src="SourceDocuments/rPlot_Biomass_on_TempTime_RSMContour.svg" alt="Thraustos"
-                        class="img-rsm_rnd"></td>
-                <td>
-                    <b>Biomass (DCW, g/L)</b>
-                    <br>&bull; With temperature
-                    <br>&bull; With reaction time
-                </td>
-            </tr>
-            <tr>
-                <td><img src="SourceDocuments/rPlot_LipidYield_on_TempTime_RSMContour.svg" alt="Thraustos"
-                        class="img-rsm_rnd"></td>
-                <td>
-                    <b>Lipid yield (mg/L)</b>
-                    <br>&bull; With temperature
-                    <br>&bull; With reaction time
-                </td>
-            </tr>
-            <tr>
-                <td><img src="SourceDocuments/PUFAS-microbes-vs-cod.png" alt="Thraustos" class="img-pufas_rnd"></td>
-                <td>
-                    <b>PUFA ratio (mg/L)</b>
-                    <br>&bull;
-                </td>
-            </tr>
-        </table>
-    </body>
-</tbody>
-<p align="right" style="font-size: 10px;"><a href="https://www.mdpi.com/1660-3397/17/8/449"
-        target="_blank">Stefansson<i>et al.</i> Mar.Drugs, 2019</a></p>
+    <h1>R&D: Optimization of microbial bioprocessing</h1>
+    <div class="line"></div>
+    
+    <p class="p_txt"> FreyMar has optimized harvest waste processing to optain optimum microbial biomass and fatty acid (FA) yeald in bioprocessing.</p>
+    <thead>
+        <title>Table: Thraustar and bullets</title>
+        <link rel="stylesheet" href="Styles-FrMr.css">
+    </thead>
+    <tbody>
+        <body>
+            <div class="table_rnd"></div>
+            <table class="table_rnd">
+                <tr>
+                    <td><img src="SourceDocuments/Thraustos.png" alt="Thraustos" class="img-thraustar_rnd"></td>
+                    <td>
+                        <b>Microbes</b>
+                        <br>Marine microbes used as the working horse in bioprocessing
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="SourceDocuments/Bioreactor.png" alt="Thraustos" class="img-thraustar_rnd"></td>
+                    <td>
+                        <b>Bioreactor</b>
+                        <br>Bioreactor designed to optain microbial and FA yield optima
+                    </td>
+                </tr>
+                <tr> 
+                    <td><img src="SourceDocuments/Nitrogen-sources_Marine-extract.svg" alt="Marine medium"
+                            class="img-nitrogen_rnd"></td>
+                    <td>
+                        <b>Slaughter waste as nitrogen source for microbes</b>
+                        <br>Marine microbes yield _[]% more biomass when processed on marine waste as compared commercial
+                        microbial media
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="SourceDocuments/Fig_2__rPlotProteinConc_&_Time.svg" alt="Thraustos"
+                            class="img-protein_rnd"></td>
+                    <td>
+                        <b>Microbial biomass (DCW, g/L) as generated</b>
+                        <br>&bull; With protein concentration
+                        <br>&bull; With fermentation time
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="SourceDocuments/Fig_3_b__rPlotRSM_GluGly_Biomass.svg" alt="Thraustos"
+                            class="img-rsm_rnd"></td>
+                    <td>
+                        <b>Bioimass (DCW, g/L)</b>
+                        <br>&bull; With glucose concentration
+                        <br>&bull; With glycerol concentration
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="SourceDocuments/rPlot_Biomass_on_TempTime_RSMContour.svg" alt="Thraustos"
+                            class="img-rsm_rnd"></td>
+                    <td>
+                        <b>Biomass (DCW, g/L)</b>
+                        <br>&bull; With temperature
+                        <br>&bull; With reaction time
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="SourceDocuments/rPlot_LipidYield_on_TempTime_RSMContour.svg" alt="Thraustos"
+                            class="img-rsm_rnd"></td>
+                    <td>
+                        <b>Lipid yield (mg/L)</b>
+                        <br>&bull; With temperature
+                        <br>&bull; With reaction time
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="SourceDocuments/PUFAS-microbes-vs-cod.png" alt="Thraustos" class="img-pufas_rnd"></td>
+                    <td>
+                        <b>PUFA ratio (mg/L)</b>
+                        <br>&bull;
+                    </td>
+                </tr>
+            </table>
+        </body>
+    </tbody>
+    <p align="right" style="font-size: 10px;"><a href="https://www.mdpi.com/1660-3397/17/8/449"
+            target="_blank">Stefansson<i>et al.</i> Mar.Drugs, 2019</a></p>
 
 <!-- Footer: -->
 
