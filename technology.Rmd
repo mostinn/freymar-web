@@ -7,8 +7,9 @@ title: "FreyMar technology"
 
 
 <h1>FreyMar's regeneration cycle for aquaculture</h1>
-<div class="line"></div>
 
+
+<div class="line"></div>
 <thead>
     <title>Table: Freymar's regeneration cycle</title>
     <link rel="stylesheet" href="Styles-FrMr.css">
@@ -20,6 +21,7 @@ title: "FreyMar technology"
             <tr>
                 <td><b>Offshore or onshore fish farm</b>
                     <br>The fish farm can be any farm where harvest waste is generated
+                    <br><img src="SourceDocuments/DownArrow.svg" alt="_" class="img-down-arrow_tech">
                 </td>
                 <td>
                     <img src="SourceDocuments/FisFarm-Regeneration-Cycle.svg" alt="_" class="img_tech">
@@ -28,6 +30,7 @@ title: "FreyMar technology"
             <tr> 
                 <td><b>From the farm to processing</b>
                     <br>Products are harvested and shipped to market. The waste goes back into the FreyMar Regeneration Cycle
+                    <br><img src="SourceDocuments/DownArrow.svg" alt="_" class="img-down-arrow_tech">
                 </td>
                 <td>
                     <img src="SourceDocuments/Processing-Regeneration-Cycle.svg" alt="_" class="img_tech">
@@ -36,6 +39,7 @@ title: "FreyMar technology"
             <tr>
                 <td><b>Harvest waste processed for media formulation</b>
                     <br>With <a href="r-n-d.html">R&D</a>, Freymar has designed processing protocols for harvest waste. These have been designed to get optimum microbial biomass and PUFA content in bioprocessing
+                    <br><img src="SourceDocuments/DownArrow.svg" alt="_" class="img-down-arrow_tech">
                 </td>
                 <td>
                     <img src="SourceDocuments/WasteProcessed-Regeneration-Cycle.svg" alt="_" class="img_tech"> 
@@ -44,6 +48,7 @@ title: "FreyMar technology"
             <tr>
                 <td><b>Bioprocessing</b>
                     <br>Processed harvest waste is placed  into a bioreactor and inoculated  with microbes
+                    <br><img src="SourceDocuments/DownArrow.svg" alt="_" class="img-down-arrow_tech">
                 </td>
                 <td>
                     <img src="SourceDocuments/Bioreactor-Regeneration-Cycle.svg" alt="_" class="img_tech"> 
@@ -52,6 +57,7 @@ title: "FreyMar technology"
             <tr>
                 <td><b>Fermentation products processed</b>
                     <br>Microbial biomass from the bioreactor treated in preparation for incorporation into feed pellets
+                    <br><img src="SourceDocuments/DownArrow.svg" alt="_" class="img-down-arrow_tech">
                 </td>
                 <td>
                     <img src="SourceDocuments/FermentationProductsProcessed-Regeneration-Cycle.svg" alt="_" class="img_tech">
@@ -59,7 +65,9 @@ title: "FreyMar technology"
             </tr>
             <tr>
                 <td><b>Fermentation products harvested</b>
-                    <br>Fermentation products harvested from processing</td>
+                    <br>Fermentation products harvested from processing
+                    <br><img src="SourceDocuments/DownArrow.svg" alt="_" class="img-down-arrow_tech">
+                </td>
                 <td>
                     <img src="SourceDocuments/FermentationProductsHarvested-Regeneration-Cycle.svg" alt="_" class="img_tech"> 
                 </td>
@@ -67,6 +75,7 @@ title: "FreyMar technology"
             <tr>
                 <td><b>Fermentation products incorporated into fish feed</b>
                     <br>Microbial biomass can either be formulated directly into fish feed or extracted fatty acids
+                    <br><img src="SourceDocuments/DownArrow.svg" alt="_" class="img-down-arrow_tech">
                 </td>
                 <td>
                     <img src="SourceDocuments/FishFeed-Regeneration-Cycle.svg" alt="_" class="img_tech"> 

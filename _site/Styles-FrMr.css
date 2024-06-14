@@ -50,7 +50,7 @@ th:nth-child(2) {
 .table_tech td:nth-child(1), th:nth-child(1) {
 	text-align: left;
 	padding: 1px 1px;
-	width: 200px;
+	width: 400px;
 	justify-content: left;
 }
 .table_tech td:nth-child(2), th:nth-child(2) {
@@ -67,6 +67,15 @@ th:nth-child(2) {
 	width: 200px;
 	margin: 0 0px;
 	/* Add some spacing between the images */
+}
+
+.img-down-arrow_tech {
+	display: flex;
+	text-align:center;
+	height: auto;
+	width: 30px;
+	padding: 20px 0px;
+	/* padding: 20px 80px; */
 }
 
 /* R&D ------------------ */
@@ -132,7 +141,7 @@ th:nth-child(2) {
 
 /* line -------------------- */
 .line {
-	border-bottom: 2px solid lightgray;
+	border-bottom: 2px solid #3498db;
 	width: 100%;
 	/* width: 1075px; */
 }
