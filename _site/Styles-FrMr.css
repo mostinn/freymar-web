@@ -50,7 +50,7 @@ th:nth-child(2) {
 .table_tech td:nth-child(1), th:nth-child(1) {
 	text-align: left;
 	padding: 1px 1px;
-	width: 400px;
+	width: 200px;
 	justify-content: left;
 }
 .table_tech td:nth-child(2), th:nth-child(2) {
