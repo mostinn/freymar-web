@@ -1,10 +1,48 @@
 ---
 title: "About This Website"
 ---
+```html
 
-## Presentation:
+<html lang="en">
+    # H1 title
+    <h1>H1 title</h1>
+Normal text
 
-<iframe src="https://docs.google.com/presentation/d/1BsuIuMvLcSWkLO_osTzWE7S4RY2N9FthkrvdBNL_0HA/edit?usp=sharing" width="800" height="600"></iframe>
+    ## H2 title
+    <h2>H2 title </h2>
+Normal text
 
+    ### H3 title
+    <h3>H3 title </h3>
+Normal text
 
-End.
+    #### H4 title
+    <h4>H4 title</h4>
+Normal text
+
+    ##### H5 title
+    <h5>H5 title</h5>
+Normal text    
+
+    ###### H6 title
+    <h6>H6 title</h6>
+Normal text
+
+<!-- Footer: -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Styles-FrMr.css">
+    <title>My Website</title>
+</head>
+
+<body>
+    <!-- Your website content goes here -->
+    <footer>
+        <p><a href="mailto:mostinn@gmail.com"><b>Contact FreyMar!</b></a></p>
+        <p>© 2024 Magnús Örn Stefánsson</p>
+    </footer>
+</body>
+
+</html>

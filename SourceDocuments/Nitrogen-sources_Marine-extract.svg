@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="250mm"
-   height="154.61682mm"
-   viewBox="0 0 250.00002 154.61682"
+   width="83.67804mm"
+   height="70.037674mm"
+   viewBox="0 0 83.678046 70.037673"
    version="1.1"
    id="svg1"
    sodipodi:docname="Nitrogen-sources_Marine-extract.svg"
@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="8.4167792"
-     inkscape:cx="685.47598"
-     inkscape:cy="80.969215"
-     inkscape:window-width="2117"
-     inkscape:window-height="1287"
-     inkscape:window-x="118"
-     inkscape:window-y="48"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:zoom="2.1041948"
+     inkscape:cx="153.74052"
+     inkscape:cy="122.3746"
+     inkscape:window-width="1875"
+     inkscape:window-height="1237"
+     inkscape:window-x="673"
+     inkscape:window-y="127"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer4" />
   <defs
      id="defs1">
     <rect
@@ -55,17 +55,28 @@
        width="380.42169"
        height="123.49923"
        id="rect3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1">
+      <rect
+         style="opacity:0.6;fill:#3498db;stroke-width:0.264583;-inkscape-stroke:none"
+         id="rect4"
+         width="85.755287"
+         height="70.037674"
+         x="162.04698"
+         y="84.700531" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.8530792,-0.45413074)" />
+     transform="translate(-163.04298,-84.700531)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Figures"
-     transform="translate(-1.8530792,-0.45413074)">
+     transform="translate(-163.04298,-84.700531)">
     <image
        y="0.45413074"
        x="163.04298"
@@ -73,120 +84,22 @@
        height="154.61682"
        width="83.67804"
        preserveAspectRatio="none"
-       id="image26" />
+       id="image26"
+       clip-path="url(#clipPath1)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Text"
-     transform="translate(-1.8530792,-0.45413074)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:125%;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="4.9151726"
-       y="43.0513"
-       id="text8"><tspan
-         sodipodi:role="line"
-         x="4.9151726"
-         y="43.0513"
-         id="tspan8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"><tspan
-           dx="0 5.4985051"
-           dy="0 1.8156179"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
-           id="tspan7">•Marine extracts</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:125%;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="4.091013"
-       y="30.340939"
-       id="text8-9"><tspan
-         sodipodi:role="line"
-         x="4.091013"
-         y="30.340939"
-         id="tspan8-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-   id="tspan6-5">• </tspan>Dry cell weight (DCW)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:152.504%;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="17.584576"
-       y="57.336845"
-       id="text17"><tspan
-         sodipodi:role="line"
-         x="17.584576"
-         y="57.336845"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         id="tspan1"><tspan
-           dx="0 4.4126663"
-           dy="0 1.6061234"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           id="tspan2">•CE – cod    </tspan></tspan><tspan
-         sodipodi:role="line"
-         x="17.584576"
-         y="72.620682"
-         id="tspan14"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
-           dx="0 4.4126663"
-           dy="0 1.6061234"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           id="tspan12">•LE – lobster</tspan></tspan><tspan
-         sodipodi:role="line"
-         x="17.584576"
-         y="87.90451"
-         id="tspan17"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
-           dx="0 4.4126663"
-           dy="0 1.6061234"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           id="tspan15">•SE – shrimp </tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:151.69%;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="4.9151726"
-       y="100.20366"
-       id="text24"><tspan
-         sodipodi:role="line"
-         x="4.9151726"
-         y="100.20366"
-         id="tspan20"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"><tspan
-           dx="0 5.4985051"
-           dy="0 1.8156179"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           id="tspan18">•Marine &gt; commercial</tspan></tspan><tspan
-         sodipodi:role="line"
-         x="4.9151726"
-         y="117.32779"
-         id="tspan24"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:OpenSymbol;-inkscape-font-specification:'OpenSymbol, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.264583" /></text>
-  </g>
+     transform="translate(-163.04298,-84.700531)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Arrows and reading guids"
-     transform="translate(-1.8530792,-0.45413074)">
-    <path
-       style="opacity:0.3;fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
-       d="M 187.84461,67.661842 H 173.72868 V 9.183062 h 28.22188 v 58.47878 z"
-       id="path26" />
+     transform="translate(-163.04298,-84.700531)">
     <path
        style="fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
        d="m 173.19951,68.020979 c -0.0599,0 -0.12969,-0.0199 -0.17957,-0.0499 -0.0499,-0.0299 -0.0998,-0.0798 -0.12968,-0.12969 -0.0299,-0.0499 -0.0499,-0.11971 -0.0499,-0.179567 h 0.35913 z"
        id="path28" />
-    <g
-       id="g1"
-       transform="matrix(1.3816039,0,0,1,96.055153,-14.287503)"
-       style="opacity:0.6">
-      <path
-         style="display:inline;fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
-         d="m 65.16482,130.38362 -12.74481,0.80776 4.44771,-10.51093 z"
-         id="path65" />
-      <path
-         style="display:inline;fill:#3498db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583"
-         d="m 25.62406,114.90643 0.44876,-1.05708 0.44876,-1.05708 29.27909,12.38575 -0.44876,1.05707 -0.44876,1.05708 z"
-         id="path64" />
-    </g>
   </g>
 </svg>

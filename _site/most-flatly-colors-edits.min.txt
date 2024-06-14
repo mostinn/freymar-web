@@ -1,5 +1,5 @@
 
-#33cccc(ff)  presentation theme
+#33cccc(ff)  presentation theme (not used)
 
 #2c3e50(ff)	Flatley base color
 
@@ -16,3 +16,5 @@
 Hover color and arrows and boxed in display
 3498db
 
+Original font sizes in template:
+{font-size:75%}h1,.h1{font-size:39px}h2,.h2{font-size:32px}h3,.h3{font-size:26px}h4,.h4{font-size:19px}h5,.h5{font-size:15px}h6,.h6{font-size:13px}p{margin:0 0 10.5px}.lead{margin-bottom:21px;font-size:17px;font-weight:300;line-height:1.4}@media (min-width:768px){.lead{font-size:22.5px}}small,.small{font-size:86%}mark,
